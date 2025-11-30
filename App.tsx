@@ -17,7 +17,7 @@ function App() {
         
         {/* Simple CTA Section */}
         <section className="py-20 bg-gray-900 relative overflow-hidden" id="contact">
-          <div className="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-l from-blue-900/10 to-transparent"></div>
+          <div className="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-l from-gray-800/30 to-transparent"></div>
           <div className="max-w-4xl mx-auto px-4 text-center relative z-10">
             <h2 className="text-3xl md:text-5xl font-bold mb-6 text-white">Ready to modernize your hardware stack?</h2>
             <p className="text-gray-400 mb-8 text-lg">
